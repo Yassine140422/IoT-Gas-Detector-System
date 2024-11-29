@@ -1,1 +1,2 @@
 # IoT-Gas-Detector-System
+An IoT-based Gas Detector system that monitors gas levels in real-time and alerts users when dangerous thresholds are reached. The project uses an Arduino with a gas sensor and WiFi module to send data to a Flask-based server. The server displays the gas level on a responsive web page and allows users to manually or automatically control warning devices like buzzers and LEDs.
